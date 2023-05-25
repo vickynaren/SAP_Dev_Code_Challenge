@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOINTERF>
-    <CLSNAME>ZW2_UI5APP</CLSNAME>
+    <CLSNAME>Z2_UI5_IF_APP</CLSNAME>
     <LANGU>E</LANGU>
     <DESCRIPT>Interface to UI5application</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>

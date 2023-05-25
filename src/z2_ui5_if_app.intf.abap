@@ -1,4 +1,4 @@
-INTERFACE zw2_ui5app
+INTERFACE z2_ui5_if_app
   PUBLIC .
   METHODS main
     IMPORTING
